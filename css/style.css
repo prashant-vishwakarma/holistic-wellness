@@ -780,7 +780,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	transform: scale(1.1);
 }
 .prices .price-box-featured .price-box-ribbon {
-	position: absolute;
+	position: relative;
 	width: 150px;
 	top: 25px;
 	right: -35px;
@@ -1073,7 +1073,7 @@ p.subtitle {
 	border-left: #f00 solid 6px;
 }
 .box_text {
-	max-width: 531px;
+	max-width: 95%;
 	width: 100%;
 	padding: 25px 2px 2px 2px;
 }
