@@ -1031,6 +1031,74 @@ p.subtitle {
 	left: 0;
 }
 /* ===== End OWL carousel ===== */
+/** We_are section **/
+.We_are {
+	padding-top: 90px;
+	background: #fff;
+}
+.box_bg_right {
+	background: #c3c3c3;
+	padding: 40px 0px 40px 65px;
+	margin-right: 101px;
+}
+.box_bg_left {
+	background: #c3c3c3;
+	padding: 40px 65px 40px 0px;
+	margin-left: 101px;
+}
+.box_bg_img_right {
+	margin-right: -84px;
+	box-shadow: #c3c3c3 0px 0px 29px 4px;
+}
+.box_bg_img_left {
+	margin-left: -84px;
+	box-shadow: #c3c3c3 0px 0px 29px 4px;
+}
+.box_bg_img_right figure {
+   margin: 0;
+}
+.box_bg_img_right figure img {
+   width: 100%;
+}
+.box_bg_img_left figure {
+	margin: 0;
+ }
+ .box_bg_img_left figure img {
+	width: 100%;
+ }
+.border_right {
+   border-right: #f00 solid 6px;
+}
+.border_left {
+	border-left: #f00 solid 6px;
+}
+.box_text {
+	max-width: 531px;
+	width: 100%;
+	padding: 25px 2px 2px 2px;
+}
+.box_text p {
+	font-size: 17px;
+	line-height: 30px;
+	font-weight: 400;
+	text-align: right;
+	color: #181716;
+}
+.box_text a {
+	font-size: 16px;
+	border: #fff solid 1px;
+	background-color: #000;
+	color: #fff;
+	padding: 10px 39px;
+	display: inline-block;
+	margin-top: 11px;
+}
+.box_text a:hover {
+	background-color: #ff0000;
+	border: #ff0000 solid 1px;
+	color: #fff;
+}
+/** end We_are section **/
 
 
 /* ===== Begin buttons ===== */
