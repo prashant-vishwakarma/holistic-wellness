@@ -1199,3 +1199,9 @@ p.subtitle {
 	transform: rotate(-45deg);
 }
 /* ===== End buttons ===== */
+
+/* ===== Hide stories by default===== */
+.stories .content {
+    display: none;
+    padding : 5px;
+}
